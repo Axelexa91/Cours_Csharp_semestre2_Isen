@@ -1,2 +1,5 @@
 # Cours_Csharp_semestre2_Isen
-C# et unity
+
+Cours de C# et Unity sur le word en ligne.
+
+Copier coller le fichier word dans se repo'.
