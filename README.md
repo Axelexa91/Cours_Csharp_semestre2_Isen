@@ -2,4 +2,4 @@
 
 Cours de C# et Unity sur le word en ligne.
 
-Copier coller le fichier word dans se repo'.
+Copier coller le fichier word dans ce repo'.
