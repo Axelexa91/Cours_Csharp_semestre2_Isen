@@ -1,0 +1,26 @@
+dossier level skipping :
+	-contien les script de passage a niveau
+
+scripts :
+	-attachscript : script permettant au cube de "coller" aux plateformes mouvantes
+	-bouton : script gerant les états des boutons du lvl  4
+	-CameraController : script controllant la camera fixe sur le cube dans les niveau 1,2 et 4
+	-CameraMvmt : Script OBSOLETE
+	-CameraMvmtlv3 : script de controle de la camera libre du niveau 3
+	-DespawnMechanic : script gerant les plateform disparaissant peu apres avoir été toucher
+	-Dimensionswitch : script permettant le changement de dimension entre blanc et noir
+	-doormanager : script verifiant les boutons pour ouvrir la porte du niveau4
+	-goSpawn : script teleportant le joueur a son point de depart
+	-PlayerController : script de control du cube pour les niveau 1,2 et 4
+	-PlayerControllerlv3 : script de controp du cube pour le niveau 3
+	-PlayerFallingReset : script teleportant le cube a son point de depart en cas de chute
+	-wavingXYZ : Script OBSOLETE
+
+
+
+
+
+
+
+
+
