@@ -2,13 +2,9 @@
 
 Groupe : Dang Thaï-Son, Morel Vincent, Nadeau Morgane, Zerbin Axel
 
-Cours de C# et Unity sur le word en ligne:
-https://docs.google.com/document/d/17VgeKWHWQmXNw0qiHOgNIwxhKRuGbKspqtAT2i11BrE/edit?usp=sharing
-
 Cours de C# complet sur le word en ligne:
 https://docs.google.com/document/d/1lCe8c3nhFjqDrxP6vvCgUrMSP4g2-Er1uXfxwzhHirQ/edit?usp=sharing
 
 Diapo de C# en ligne:
 https://1drv.ms/p/s!AtRAYhgnFOZN8CRrYwJokCN8gS-Q
 
-Copier coller le fichier word dans ce repo'.
